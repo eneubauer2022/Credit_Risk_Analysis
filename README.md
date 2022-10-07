@@ -42,8 +42,8 @@ In this module, we want to use machine learning to predict if a customer's credi
           Low Risk:
             Precision: 1.00
             Recall: 0.40
-  
-    ![this is an image](https://github.com/eneubauer2022/Credit_Risk_Analysis/blob/main/Images/cc.png)
+ 
+ ![this is an image](https://github.com/eneubauer2022/Credit_Risk_Analysis/blob/main/Images/cc.png)
     
     
    ## SMOTEENN (Over and Under Sampling)
