@@ -7,9 +7,9 @@ In this module, we want to use machine learning to predict if a customer's credi
 ## Results of Different algoritms:
 
 ### Naive Random Oversampling:
-- Balanced Accuracy Score: 0.66
+Balanced Accuracy Score: 0.66
 
-- Precision/Recall:
+Precision/Recall:
       High Risk:
           Precision: 0.01
           Recall: 0.72
@@ -17,7 +17,7 @@ In this module, we want to use machine learning to predict if a customer's credi
           Precision: 1.00
           Recall: 0.60
           
- ![this is an image]()
+ ![this is an image](https://github.com/eneubauer2022/Credit_Risk_Analysis/blob/main/Images/NRO.png)
  
  ### SMOTE Oversampling:
        Balanced Accuracy Score: 0.69
@@ -30,7 +30,7 @@ In this module, we want to use machine learning to predict if a customer's credi
             Precision: 1.00
             Recall: 0.68
             
-  ![this is an image]()
+  ![this is an image](https://github.com/eneubauer2022/Credit_Risk_Analysis/blob/main/Images/SMOTE.png)
   
   ### Cluster Centriods Undersampling:
         Balanced Accuracy Score: 0.54
@@ -43,7 +43,7 @@ In this module, we want to use machine learning to predict if a customer's credi
             Precision: 1.00
             Recall: 0.40
   
-    ![this is an image]()
+    ![this is an image](https://github.com/eneubauer2022/Credit_Risk_Analysis/blob/main/Images/cc.png)
     
     
    ## SMOTEENN (Over and Under Sampling)
@@ -56,7 +56,7 @@ In this module, we want to use machine learning to predict if a customer's credi
             Precision: 1.00
             Recall: 0.58
             
-![this is an image]()
+![this is an image](https://github.com/eneubauer2022/Credit_Risk_Analysis/blob/main/Images/SMOTEEN.png)
           
 ## 
       Balanced Accuracy Score: 
