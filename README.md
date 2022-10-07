@@ -69,7 +69,7 @@ In this module, we want to use machine learning to predict if a customer's credi
             Recall: 0.87
             
             
-![this is an image]()
+![this is an image](https://github.com/eneubauer2022/Credit_Risk_Analysis/blob/main/Images/brfc.png)
           
 ## Easy Ensemble Classifier
       Balanced Accuracy Score: 0.79
@@ -81,4 +81,4 @@ In this module, we want to use machine learning to predict if a customer's credi
             Precision: 1.00
             Recall: 0.87
             
- ![this is an image]()
+ ![this is an image](https://github.com/eneubauer2022/Credit_Risk_Analysis/blob/main/Images/easy.png)
