@@ -82,3 +82,8 @@ In this module, we want to use machine learning to predict if a customer's credi
             Recall: 0.94
             
  ![this is an image](https://github.com/eneubauer2022/Credit_Risk_Analysis/blob/main/Images/easy.png)
+ 
+ 
+ ## Summary
+ 
+ Out of all the models, the Easy Ensemble Classifier model would be my recommendation. This model had a very impressive accuracy score of 93%. 
