@@ -59,24 +59,26 @@ In this module, we want to use machine learning to predict if a customer's credi
 ![this is an image](https://github.com/eneubauer2022/Credit_Risk_Analysis/blob/main/Images/SMOTEEN.png)
           
 ## Balanced Random Forest Classifier
-      Balanced Accuracy Score: 
+      Balanced Accuracy Score: 0.79
         Precision/Recall:
-          High Risk:
-            Precision: 
-            Recall: 
+          High Risk: 
+            Precision: 0.03
+            Recall: 0.70
           Low Risk:
-            Precision: 
-            Recall: 
+            Precision: 1.00
+            Recall: 0.87
             
             
 ![this is an image]()
           
 ## Easy Ensemble Classifier
-      Balanced Accuracy Score: 
+      Balanced Accuracy Score: 0.79
         Precision/Recall:
-          High Risk:
-            Precision: 
-            Recall: 
+          High Risk: 
+            Precision: 0.03
+            Recall: 0.70
           Low Risk:
-            Precision: 
-            Recall: 
+            Precision: 1.00
+            Recall: 0.87
+            
+ ![this is an image]()
