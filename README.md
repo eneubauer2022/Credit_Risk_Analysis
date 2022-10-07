@@ -7,15 +7,15 @@ In this module, we want to use machine learning to predict if a customer's credi
 ## Results of Different algoritms:
 
 ### Naive Random Oversampling:
-Balanced Accuracy Score: 0.66
-
-Precision/Recall:
-      High Risk:
-          Precision: 0.01
-          Recall: 0.72
-      Low Risk:
-          Precision: 1.00
-          Recall: 0.60
+      Balanced Accuracy Score: 0.66
+            
+      Precision/Recall:
+         High Risk:
+            Precision: 0.01
+            Recall: 0.72
+         Low Risk:
+            Precision: 1.00
+            Recall: 0.60
           
  ![this is an image](https://github.com/eneubauer2022/Credit_Risk_Analysis/blob/main/Images/NRO.png)
  
@@ -58,7 +58,7 @@ Precision/Recall:
             
 ![this is an image](https://github.com/eneubauer2022/Credit_Risk_Analysis/blob/main/Images/SMOTEEN.png)
           
-## 
+## Balanced Random Forest Classifier
       Balanced Accuracy Score: 
         Precision/Recall:
           High Risk:
@@ -71,7 +71,7 @@ Precision/Recall:
             
 ![this is an image]()
           
-## 
+## Easy Ensemble Classifier
       Balanced Accuracy Score: 
         Precision/Recall:
           High Risk:
