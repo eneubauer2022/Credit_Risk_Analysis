@@ -4,7 +4,7 @@
 
 In this module, we want to use machine learning to predict if a customer's credit application is high risk or low risk to predict if the application will be approved. We will use several different algorithms (oversampling, undersampling, combinational of over- and undersampling and two models that reduce bias) to help us predict the credit risk. Based off of these models, we hope to recommend one of them to the lending services to use in the future.  
 
-## Results of Different algoritms:
+## Results of Different algorithms:
 
 ### Naive Random Oversampling:
       Balanced Accuracy Score: 0.66
